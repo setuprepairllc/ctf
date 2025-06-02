@@ -4,7 +4,7 @@ import requests
 url = "http://lookup.thm/login.php"
 
 # Define the file path containing usernames
-file_path = "/usr/share/seclists/Usernames/Names/names.txt"
+file_path = "/usr/share/wordlists/wordlists/wordlists/names/names.txt"
 
 # Read the file and process each line
 try:

@@ -1,0 +1,3 @@
+[80][http-post-form] host: lookup.thm   login: jose   password: password123
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2025-06-01 18:30:10
